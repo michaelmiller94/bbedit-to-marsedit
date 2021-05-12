@@ -1,0 +1,1 @@
+My goal with this script is to take text from a BBEdit window and put it in the appropriate fields in MarsEdit. Currently, all of the text goes into the `Body` field, but I want the first line to go into the `Title` field, similar to what [this Shortcut from Federico Viticci](https://www.icloud.com/shortcuts/2e934815b428461daa88a70b2a7dff95) does on iOS.
